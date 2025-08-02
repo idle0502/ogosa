@@ -82,6 +82,16 @@ document.addEventListener("DOMContentLoaded", function () {
             img.style.objectFit = isVertical ? 'contain' : 'cover';
             img.style.backgroundColor = '#000';
           };
+          // ✅ Robust thumbnail fallback chain
+          img.onerror = function () {
+            const u = img.src || '';
+            if (u.startsWith('http://')) { img.src = u.replace('http://','https://'); return; }
+            if (u.includes('/maxresdefault.jpg')) { img.src = u.replace('/maxresdefault.jpg','/sddefault.jpg'); return; }
+            if (u.includes('/sddefault.jpg')) { img.src = u.replace('/sddefault.jpg','/hqdefault.jpg'); return; }
+            if (u.includes('/hqdefault.jpg')) { img.src = u.replace('/hqdefault.jpg','/mqdefault.jpg'); return; }
+            if (u.includes('/mqdefault.jpg')) { img.src = u.replace('/mqdefault.jpg','/default.jpg'); return; }
+            img.src = 'images/placeholder-thumb.jpg';
+          };
         });
 
         currentIndex += batchSize;
