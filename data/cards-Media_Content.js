@@ -9218,7 +9218,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/T_pIL2pWm1c",
     "category": "Media_Content",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-02-14",
     "duration": "00:18:12",
     "thumbnail": "https://i.ytimg.com/vi/T_pIL2pWm1c/maxresdefault.jpg",
@@ -9438,7 +9438,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/R2-aO_hZ1Vg",
     "category": "Media_Content",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-03-21",
     "duration": "00:20:14",
     "thumbnail": "https://i.ytimg.com/vi/R2-aO_hZ1Vg/maxresdefault.jpg",
@@ -9501,7 +9501,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/kOJU1Vh8yxg",
     "category": "Media_Content",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-05-04",
     "duration": "00:28:25",
     "thumbnail": "https://i.ytimg.com/vi/kOJU1Vh8yxg/maxresdefault.jpg",
@@ -9651,7 +9651,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/AQJh-psjcrY",
     "category": "Media_Content",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-05-11",
     "duration": "00:19:36",
     "thumbnail": "https://i.ytimg.com/vi/AQJh-psjcrY/maxresdefault.jpg",
@@ -9891,7 +9891,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/lJAZStJcBzw",
     "category": "Media_Content",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-05-18",
     "duration": "00:14:57",
     "thumbnail": "https://i.ytimg.com/vi/lJAZStJcBzw/maxresdefault.jpg",
@@ -10241,7 +10241,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/gyy645RzBBA",
     "category": "Media_Content",
-    "member": "미연",
+    "member": "아이들",
     "date": "2025-05-25",
     "duration": "00:29:02",
     "thumbnail": "https://i.ytimg.com/vi/gyy645RzBBA/maxresdefault.jpg",
@@ -10561,7 +10561,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/8T293iPV_-8",
     "category": "Media_Content",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-06-08",
     "duration": "00:12:37",
     "thumbnail": "https://i.ytimg.com/vi/8T293iPV_-8/maxresdefault.jpg",
@@ -10711,7 +10711,7 @@ const mediaContentCards = [
   {
     "link": "https://youtu.be/brSMUqo05f4",
     "category": "Media_Content",
-    "member": "아이들",
+    "member": "미연",
     "date": "2025-06-15",
     "duration": "00:09:21",
     "thumbnail": "https://i.ytimg.com/vi/brSMUqo05f4/maxresdefault.jpg",
@@ -12988,3 +12988,4 @@ const mediaContentCards = [
 ];
 
 window.mediaContentCards = mediaContentCards;
+
