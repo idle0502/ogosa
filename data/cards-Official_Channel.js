@@ -2175,7 +2175,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/xIL1T1q2irg/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 06 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 06 (2020-05-02)",
-    "subtag": "라이브 H/L | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/LHTMZOL4tQ0",
@@ -2186,7 +2186,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/LHTMZOL4tQ0/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 05 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 05 (2020-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/YQA03ceSQEc",
@@ -2197,7 +2197,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/YQA03ceSQEc/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 04 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 04 (2020-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/4aeff7VTWAs",
@@ -2208,7 +2208,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/4aeff7VTWAs/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 02 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 02 (2020-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/yVD4glcIS7o",
@@ -2219,7 +2219,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/yVD4glcIS7o/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 01 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 01 (2020-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/HnvWJehjYQA",
@@ -2274,7 +2274,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Mg4Z4QFfIOw/maxresdefault.jpg",
     "alt": "[I-LIVE] 우리 네버랜드.. 게임 잘하는구나?! (2020-11-11)",
     "title": "[I-LIVE] 우리 네버랜드.. 게임 잘하는구나?! (2020-11-11)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/oKsbhYSLs8M",
@@ -2285,7 +2285,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/oKsbhYSLs8M/maxresdefault.jpg",
     "alt": "[I-LIVE] 소연이의 롤방! 여러분 같이 춤추고 시작해요~ (2020-11-11)",
     "title": "[I-LIVE] 소연이의 롤방! 여러분 같이 춤추고 시작해요~ (2020-11-11)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/2njcKe_wweU",
@@ -2340,7 +2340,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/MuNo4FX4Ur0/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 08 다 같이 소리쳐요 윈디버거 대박!!!!🥳 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 08 다 같이 소리쳐요 윈디버거 대박!!!!🥳 (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/wK_l3Uc0-tU",
@@ -2351,7 +2351,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/wK_l3Uc0-tU/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 07 윈디버거의 번창을 바라며 ✨ 오픈식을 마무리하겠습니다! (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 07 윈디버거의 번창을 바라며 ✨ 오픈식을 마무리하겠습니다! (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/v7h5eN21w8w",
@@ -2362,7 +2362,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/v7h5eN21w8w/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 05 전대표님이 !직접! 소개해주는 윈디버거 수록곡 메뉴🍔 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 05 전대표님이 !직접! 소개해주는 윈디버거 수록곡 메뉴🍔 (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/CD12U9gyE0c",
@@ -2373,7 +2373,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/CD12U9gyE0c/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 03 햄버거 케이크 🍔🎂 커팅식! 소리쳐주세요!! 윈디버거 대박!!! 📣 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 03 햄버거 케이크 🍔🎂 커팅식! 소리쳐주세요!! 윈디버거 대박!!! 📣 (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/X5nNmF_m220",
@@ -2384,7 +2384,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/X5nNmF_m220/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 02 윈디버거 성수 1호점, 전격 메뉴 소개 타임🍔🍟 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 02 윈디버거 성수 1호점, 전격 메뉴 소개 타임🍔🍟 (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/vPu95lo5SVw",
@@ -2395,7 +2395,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/vPu95lo5SVw/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 01 🎉축 윈디버거 오픈🎉 역사적인 순간 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 01 🎉축 윈디버거 오픈🎉 역사적인 순간 (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/srepY5GVRhU",
@@ -2406,7 +2406,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/srepY5GVRhU/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 09 1부 레드 카펫!🥳👏🥳 (2021-07-06)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/y3yqSbJ2T0w",
@@ -2428,7 +2428,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/bNEp5XtJwow/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 10 - 미래의 기들에게 보내는 사랑의 메세지 💜 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/kKDd451WWAw",
@@ -2439,7 +2439,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/kKDd451WWAw/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 09 - 네버레터의 시간 💌 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/69oSaVo3wPo",
@@ -2450,7 +2450,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/69oSaVo3wPo/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 08 - 술 게임 하지만 이름 바꾸기를 곁들인.. (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/_Sbv4c1PxwI",
@@ -2461,7 +2461,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/_Sbv4c1PxwI/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 07 - 슬프지만.. 💕 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/cY0Va2TgsfI",
@@ -2472,7 +2472,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/cY0Va2TgsfI/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 06 - 흥 넘치는 우기 🍷 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/60Rb1vTzffI",
@@ -2483,7 +2483,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/60Rb1vTzffI/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 05 - 4주년 축하송 💜 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/un2_yqdc72g",
@@ -2494,7 +2494,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/un2_yqdc72g/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 04 - 과일 던져서 먹기 챌린지 😋 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/BEOF3t0fM9g",
@@ -2505,7 +2505,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/BEOF3t0fM9g/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 03 - 우당탕탕 케이크 꾸미기 🎂 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/BMNofD53P2U",
@@ -2516,7 +2516,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/BMNofD53P2U/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 02 - 멤버들의 근황 이야기 😉 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/kmfHkL7u7IY",
@@ -2527,7 +2527,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/kmfHkL7u7IY/maxresdefault.jpg",
     "alt": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)",
     "title": "[I-LIVE] 💜축 4주년💜 HIGHLIGHT 01 - 축하합니다💜🎉 (2022-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/c3-dnBwM6O8",
@@ -2593,7 +2593,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/IlFh4Zzgh4U/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 09 - 사랑해요 네버버 💜 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 09 - 사랑해요 네버버 💜 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/60knHM-d0L8",
@@ -2604,7 +2604,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/60knHM-d0L8/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 08 - 캡쳐 타임 📸 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 08 - 캡쳐 타임 📸 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/pblTCkuBCHw",
@@ -2615,7 +2615,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/pblTCkuBCHw/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 07 - 네버버와의 버킷리스트 ✅ (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 07 - 네버버와의 버킷리스트 ✅ (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/x4Fib7qx3Gk",
@@ -2626,7 +2626,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/x4Fib7qx3Gk/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 02 - 칵테일 타임🍸🍹 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 02 - 칵테일 타임🍸🍹 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/fNw87YN_y_g",
@@ -2637,7 +2637,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/fNw87YN_y_g/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 06 - 12시 땡! 5주년 댄스 타임💃 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 06 - 12시 땡! 5주년 댄스 타임💃 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/UYKElCRktyE",
@@ -2648,7 +2648,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/UYKElCRktyE/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 05 - 찰떡콩떡 가족같은 아이들 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 05 - 찰떡콩떡 가족같은 아이들 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/ofVzUKoKbqY",
@@ -2659,7 +2659,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ofVzUKoKbqY/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 04 - 퀸카=아이들?! 닮은부분 찾기 👀 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 04 - 퀸카=아이들?! 닮은부분 찾기 👀 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/mdYmtp7z4k8",
@@ -2670,7 +2670,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/mdYmtp7z4k8/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 03 - 강렬했던 시구⚾️시타 이야기 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 03 - 강렬했던 시구⚾️시타 이야기 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/lH7zwkESfwg",
@@ -2681,7 +2681,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/lH7zwkESfwg/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 01 - 네버버와 함께했던 5년 되돌아보기 💜 (2023-05-01)",
     "title": "[I-LIVE] 🎉축 5주년🎉 HIGHLIGHT 01 - 네버버와 함께했던 5년 되돌아보기 💜 (2023-05-01)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/_NCMWptDQFg",
@@ -2725,7 +2725,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/y6J4gvnJRYY/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 06 - 뭐를 좋아하는지 몰라서 전부 준비해 봤어 (feat.6자 돌림 선물들6️⃣🎁) (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 06 - 뭐를 좋아하는지 몰라서 전부 준비해 봤어 (feat.6자 돌림 선물들6️⃣🎁) (2024-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/Lyt8-ZiqTpA",
@@ -2736,7 +2736,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/Lyt8-ZiqTpA/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 03 - 다들 나이가 먹더니 귀여운 걸 하고 싶어 해🍬😘 (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 03 - 다들 나이가 먹더니 귀여운 걸 하고 싶어 해🍬😘 (2024-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/EcISuKwE9fo",
@@ -2747,7 +2747,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/EcISuKwE9fo/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 02 - (프로)아이들의 캡처 타임📸💥과 들망진창 케이크 촛불 불기🎂 (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 02 - (프로)아이들의 캡처 타임📸💥과 들망진창 케이크 촛불 불기🎂 (2024-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/ZgMCwWSDB1A",
@@ -2758,7 +2758,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/ZgMCwWSDB1A/maxresdefault.jpg",
     "alt": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 01 - 우리 모두 웃-자?😁🌸 (2024-05-02)",
     "title": "[I-LIVE] 🎉축 6주년🎉 HIGHLIGHT 01 - 우리 모두 웃-자?😁🌸 (2024-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/2rQBtMEB6Bs",
@@ -8303,7 +8303,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/HVumeeDWHZs/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 03 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 03 (2020-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/VLrEJnJSh6s",
@@ -8402,7 +8402,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/_4o_TR0LE28/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 06 윈디버거 삠삠☀️🏖 그 맛의 비결은?! (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/yClG9_ldxNw",
@@ -8413,7 +8413,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/yClG9_ldxNw/maxresdefault.jpg",
     "alt": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
     "title": "'Windy Burger Grand Open!' - 하이라이트 04 대표님의 말씀 들어보겠습니다 윈디버거 브랜드 히스토리! 📣 (2021-07-05)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE H/L"
   },
   {
     "link": "https://youtu.be/Skz2kUcS5Jc",
@@ -8773,4 +8773,5 @@ const officialChannelCards = [
     ];
 
 window.officialChannelCards = officialChannelCards;
+
 
