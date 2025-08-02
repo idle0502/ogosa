@@ -2175,7 +2175,7 @@ const officialChannelCards = [
     "thumbnail": "https://i.ytimg.com/vi/xIL1T1q2irg/maxresdefault.jpg",
     "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 06 (2020-05-02)",
     "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 하이라이트 06 (2020-05-02)",
-    "subtag": "아이라이브 | I-LIVE"
+    "subtag": "라이브 H/L | I-LIVE"
   },
   {
     "link": "https://youtu.be/LHTMZOL4tQ0",
@@ -8773,3 +8773,4 @@ const officialChannelCards = [
     ];
 
 window.officialChannelCards = officialChannelCards;
+
