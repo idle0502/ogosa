@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shorts - i-dle 몰아보기</title>
+  <link rel="icon" href="images/i-dle logo.png" type="image/png" />
+  
+<link rel="stylesheet" href="assets/css/category_shorts.css"/>
+</head>
+<body>
+  <div class="header-bar"><div id="mainTitle">Shorts</div></div>
+  <div class="category-section">
+    <div class="category-line" id="yearFilters"></div>
+    <div class="category-line" id="monthFilters"></div>
+  </div>
+  <div class="top-bar">
+    <div class="search-wrapper">
+      <input type="text" id="searchInput" placeholder="Search in category">
+      <button id="searchBtn" title="검색 실행">🔍</button>
+    </div>
+    <button id="resetSearchBtn" title="reset"><img src="images/reset.jpg" alt="reset"></button>
+    <button onclick="location.href='index.html'" title="home"><img src="images/home.jpg" alt="home"></button>
+  </div>
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 0 20px 5px 20px;">
+    <button id="toggleSortBtn" style="background-color: #222; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 14px; cursor: pointer;">오래된순</button>
+    <div id="cardCount"></div>
+  </div>
+  <div class="card-container" id="allCards"></div>
+  <div class="button-wrapper">
+    <button id="loadMoreBtn" type="button">More</button>
+    <button id="scrollTopBtn" title="scrollTop">↑</button>
+  </div>
+
+ <div id="videoOverlay">
+  <iframe id="videoFrame" src="" allowfullscreen></iframe>
+
+  <div id="buttonRow">
+    <button id="prevBtn">←</button>
+    <button id="nextBtn">→</button>
+    <button id="closeBtn">✖</button>
+  </div>
+</div>
+
+  <script src="data/cards-Shorts.js"></script>
+  
+<script src="assets/js/category_shorts.js" defer></script>
+</body>
+</html>

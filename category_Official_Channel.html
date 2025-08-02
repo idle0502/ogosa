@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Official_Channel - I-DLE 몰아보기</title>
+  <link rel="icon" href="images/i-dle logo.png" type="image/png" />
+  
+<link rel="stylesheet" href="assets/css/category_Official_Channel.css"/>
+</head>
+<body>
+  <div class="header-bar">
+    <div id="mainTitle">Official_Channel</div>
+  </div>
+  <div class="category-section">
+    <div class="category-line" id="yearFilters"></div>
+    <div class="category-line" id="monthFilters"></div>
+  </div>
+  <div class="top-bar">
+    <select id="subtagFilter">
+      <option value="">🡻 서브필터 (전체)</option>
+      <option value="아이톡 | I-TALK">아이톡 | I-TALK</option>
+      <option value="해시톡 | HASHTALK">해시톡 | HASHTALK</option>
+      <option value="아이로그 | I-LOG">아이로그 | I-LOG</option>
+      <option value="아이라이브 | I-LIVE">아이라이브 | I-LIVE</option>
+      <option value="비하인드 외전 | Extra Behind">비하인드 외전 | Extra Behind</option>
+      <option value="프로모션 | Comeback Promotion">프로모션 | Comeback Promotion</option>
+      <option value="안무연습 | Choreography Practice Video">안무연습 | Choreography Practice Video</option>
+      <option value="퍼포먼스 | Performance">퍼포먼스 | Performance</option>
+      <option value="커버곡 | Cover">커버곡 | Cover</option>
+      <option value="스페셜컨텐츠 | Special Content">스페셜컨텐츠 | Special Content</option>
+      <option value="응원법 | Fan Chant">응원법 | Fan Chant</option>
+      <option value="기타 | Etc">기타 | Etc</option>
+    </select>
+    <div class="search-wrapper">
+      <input type="text" id="searchInput" placeholder="Search in category">
+      <button id="searchBtn" title="검색 실행">🔍</button>
+    </div>
+    <button id="resetSearchBtn" title="reset"><img src="images/reset.jpg" alt="reset"></button>
+    <button onclick="location.href='index.html'" title="home"><img src="images/home.jpg" alt="home"></button>
+  </div>
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 0 20px 5px 20px;">
+    <button id="toggleSortBtn" style="background-color: #222; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 14px; cursor: pointer;">오래된순</button>
+    <div id="cardCount"></div>
+  </div>
+  <div class="card-container" id="allCards"></div>
+  <div class="button-wrapper">
+    <button id="loadMoreBtn" type="button">More</button>
+    <button id="scrollTopBtn" title="scrollTop">↑</button>
+  </div>
+  <script src="data/cards-Official_Channel.js"></script>
+  
+<script src="assets/js/category_Official_Channel.js" defer></script>
+</body>
+</html>

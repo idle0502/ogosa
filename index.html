@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>i-dle 몰아보기</title>
+  <link rel="icon" href="images/i-dle logo.png" type="image/png" />
+  
+<link rel="stylesheet" href="assets/css/index.css"/>
+</head>
+<body>
+  <div class="header-bar"><div id="mainTitle">i-dle 몰아보기</div></div>
+  <div class="category-section cards">
+    <div class="category-card"><a href="category.html?category=Releases"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg');"></div><div class="category-title">Releases</div></a></div>
+  <div class="category-card"><a href="category.html?category=Broadcast_Stage"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/MfSKSo9Oz44/maxresdefault.jpg');"></div><div class="category-title">Broadcast_Stage</div></a></div>   
+  <div class="category-card"><a href="category_Official_Channel.html"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/sYGLN6biYb0/maxresdefault.jpg');"></div><div class="category-title">Official_Channel</div></a></div>
+  <div class="category-card"><a href="category.html?category=Original_Variety"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/rwtUR5moRgQ/sddefault.jpg');"></div><div class="category-title">Original_Variety</div></a></div>
+  <div class="category-card"><a href="category.html?category=Recording_Behind"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Ly5SxYH5OhI/maxresdefault.jpg');"></div><div class="category-title">Recording_Behind</div></a></div>
+  <div class="category-card"><a href="category.html?category=Special_Releases"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg');"></div><div class="category-title">Special_Releases</div></a></div>
+  <div class="category-card"><a href="category.html?category=Festival_Stage"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/__tJvVTt6U8/maxresdefault.jpg');"></div><div class="category-title">Festival_Stage</div></a></div>
+  <div class="category-card"><a href="category.html?category=Media_Performance"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/et3VDbL7cIA/sddefault.jpg');"></div><div class="category-title">Media_Performance</div></a></div>
+  <div class="category-card"><a href="category.html?category=Media_Content"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/ByfTTLhXPIs/sddefault.jpg');"></div><div class="category-title">Media_Content</div></a></div>
+  <div class="category-card"><a href="category.html?category=Live_Streams"><div class="category-thumbnail" style="background-image: url('https://phinf.wevpstatic.net/MjAyNTA3MTVfMTky/MDAxNzUyNTExNDQ1MDI0.UzKMFELwGHBZRmosJazSe-yrr5JBk5dPsHUVof3JjZwg.vyj00aJAfUiRq-rM4LJDX-zd__1ud5G4LGfnYSPDFzQg.JPEG/snapshot_52423d02-5fd4-40f1-b8cc-15621cd9f79c.jpg?type=f_or_off_640_360');"></div><div class="category-title">Live_Streams</div></a></div>
+  <div class="category-card"><a href="category.html?category=Radio_Podcast"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/AgXZkCieP50/sddefault.jpg');"></div><div class="category-title">Radio_Podcast</div></a></div>
+  <div class="category-card"><a href="category.html?category=Interviews"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/7jPhEu2I4qc/sddefault.jpg');"></div><div class="category-title">Interviews</div></a></div>
+  <div class="category-card"><a href="category.html?category=Commercials"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Thm6QoLkNNs/sddefault.jpg');"></div><div class="category-title">Commercials</div></a></div>
+  <div class="category-card"><a href="category.html?category=Etc"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Oo9K9ago7S4/sddefault.jpg');"></div><div class="category-title">Etc</div></a></div>
+  <div class="category-card"><a href="category_shorts.html"><div class="category-thumbnail" style="background-image: url('https://i.ytimg.com/vi/WS5KADAmV94/maxresdefault.jpg');"></div><div class="category-title">Shorts</div></a></div>
+    
+  </div>
+
+  <div class="top-bar">
+    <div class="search-wrapper">
+      <input type="text" id="searchInput" placeholder="Search all videos...">
+      <button id="searchBtn" style="font-size: 16px; background: none; border: none; cursor: pointer;">🔍</button>
+    </div>
+    <button id="resetSearchBtn"><img src="images/reset.jpg" alt="reset"></button>
+    <button onclick="location.href='index.html'"><img src="images/home.jpg" alt="home"></button>
+  </div>
+
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 0 20px 5px 20px;">
+    <button id="toggleSortBtn" style="background-color: #222; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 14px; cursor: pointer;">오래된순</button>
+    <div id="cardCount"></div>
+  </div>
+
+  <div class="card-container" id="allCards"></div>
+  <div class="button-wrapper">
+    <button id="loadMoreBtn" type="button">More</button>
+    <button id="scrollTopBtn" title="scrollTop">↑</button>
+  </div>
+  <script src="common.js"></script>
+  <script src="data/cards-Releases.js"></script>
+  <script src="data/cards-Broadcast_Stage.js"></script>
+  <script src="data/cards-Official_Channel.js"></script>
+  <script src="data/cards-Original_Variety.js"></script>
+  <script src="data/cards-Recording_Behind.js"></script>
+  <script src="data/cards-Special_Releases.js"></script>
+  <script src="data/cards-Festival_Stage.js"></script>
+  <script src="data/cards-Media_Performance.js"></script>
+  <script src="data/cards-Media_Content.js"></script>
+  <script src="data/cards-Live_Streams.js"></script>
+  <script src="data/cards-Radio_Podcast.js"></script>
+  <script src="data/cards-Interviews.js"></script>
+  <script src="data/cards-Commercials.js"></script>
+  <script src="data/cards-Etc.js"></script>
+  <script src="data/cards-Shorts.js"></script>
+  
+<script src="assets/js/index.js" defer></script>
+</body>
+</html>
