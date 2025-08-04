@@ -12979,6 +12979,16 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/mbJ53bNZuNI/maxresdefault.jpg",
   "alt": "《我們回家吧3》 Let's go home EP07 在夢想開始的地方，闖一趟沒有遺憾的人生 ft. 舒華 꿈이 시작된 이 곳, 후회 없는 인생을 향해 ft. 슈화 (2025-08-02)",
   "title": "《我們回家吧3》 Let's go home EP07 在夢想開始的地方，闖一趟沒有遺憾的人生 ft. 舒華 꿈이 시작된 이 곳, 후회 없는 인생을 향해 ft. 슈화 (2025-08-02)"
+},
+{
+  "link": "https://youtu.be/LWdIpkcsIQo",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-08-04",
+  "duration": "00:34:59",
+  "thumbnail": "https://i.ytimg.com/vi/LWdIpkcsIQo/maxresdefault.jpg",
+  "alt": "[SUB] PLAVE, 지구 침공하러 왔다가 팀 와해될 뻔했습니다.. 슈화에게 털어놓은 충격 고백들.zipㅣ감별사 글로벌 EP.2 (2025-08-04)",
+  "title": "[SUB] PLAVE, 지구 침공하러 왔다가 팀 와해될 뻔했습니다.. 슈화에게 털어놓은 충격 고백들.zipㅣ감별사 글로벌 EP.2 (2025-08-04)"
 }
     
 
@@ -12988,4 +12998,5 @@ const mediaContentCards = [
 ];
 
 window.mediaContentCards = mediaContentCards;
+
 
