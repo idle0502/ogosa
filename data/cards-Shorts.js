@@ -14230,6 +14230,26 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/yTv8QNYOxLQ/maxresdefault.jpg",
   "alt": "ʜᴀ Hᴀ HA  [deleted] (2025-07-31)",
   "title": "ʜᴀ Hᴀ HA  [deleted] (2025-07-31)"
+},
+{
+  "link": "https://youtu.be/P7MmaOyDD2k",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-08-08T19:00:00",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/P7MmaOyDD2k/maxresdefault.jpg",
+  "alt": "#착젤싫_Challenge with #우기 🪽 #최예나 #예나 #YENA #아이들 #착하다는말이제일싫어 #YENA_Being_a_good_girl_hurts #以善之名 (2025-08-08)",
+  "title": "#착젤싫_Challenge with #우기 🪽 #최예나 #예나 #YENA #아이들 #착하다는말이제일싫어 #YENA_Being_a_good_girl_hurts #以善之名 (2025-08-08)"
+},
+{
+  "link": "https://youtu.be/k6O44bQ7ZYQ",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-08-08T19:00:01",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/k6O44bQ7ZYQ/maxresdefault.jpg",
+  "alt": "그래 내가 할게 Quit 💦 (2025-08-08)",
+  "title": "그래 내가 할게 Quit 💦 (2025-08-08)"
 }
   
   
@@ -14237,4 +14257,5 @@ const shortsCards = [
   ];
 
 window.shortsCards = shortsCards;
+
 
