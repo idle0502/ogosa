@@ -8766,6 +8766,39 @@ const officialChannelCards = [
   "alt": "반얀트리 풀파티 무대도 레전드 찍었쏘 😉🖤 [#HASHTALK] EP.42ㅣi-dle (아이들)ㅣSUB (2025-08-01)",
   "title": "반얀트리 풀파티 무대도 레전드 찍었쏘 😉🖤 [#HASHTALK] EP.42ㅣi-dle (아이들)ㅣSUB (2025-08-01)",
   "subtag": "해시톡 | HASHTALK"
+},
+{
+  "link": "https://youtu.be/AAx1bHsXzBo",
+  "category": "Official_Channel",
+  "member": "민니",
+  "date": "2025-08-06",
+  "duration": "00:16:05",
+  "thumbnail": "https://i.ytimg.com/vi/AAx1bHsXzBo/maxresdefault.jpg",
+  "alt": "민니의 태국 활동 비하인드 (광고 촬영 & 행사) [i-talk] #209 | i-dle (아이들)ㅣSUB (2025-08-06)",
+  "title": "민니의 태국 활동 비하인드 (광고 촬영 & 행사) [i-talk] #209 | i-dle (아이들)ㅣSUB (2025-08-06)",
+  "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/CoaEi13hCcg",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-08-07",
+  "duration": "00:07:44",
+  "thumbnail": "https://i.ytimg.com/vi/CoaEi13hCcg/maxresdefault.jpg",
+  "alt": "미연의 红秀GRAZIA 화보 촬영 비하인드 [i-talk] #210 | i-dle (아이들)ㅣSUB (2025-08-07)",
+  "title": "미연의 红秀GRAZIA 화보 촬영 비하인드 [i-talk] #210 | i-dle (아이들)ㅣSUB (2025-08-07)",
+  "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/ZoZQoYpZaso",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-08-08T19:00:02",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/ZoZQoYpZaso/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'What It Sounds Like / KPop Demon Hunters OST' (Cover) (2025-08-08)",
+  "title": "우기 (YUQI) 'What It Sounds Like / KPop Demon Hunters OST' (Cover) (2025-08-08)",
+  "subtag": "커버곡 | Cover"
 }
 
 
@@ -8773,5 +8806,6 @@ const officialChannelCards = [
     ];
 
 window.officialChannelCards = officialChannelCards;
+
 
 
