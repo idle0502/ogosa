@@ -879,10 +879,32 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/hdLI_UzpMgw/maxresdefault.jpg",
   "alt": "[견우와 선녀 (Head over Heels) OST Part 5] 미연 (MIYEON) - 우리 우연히 만나 (When we meet again) MV (2025-07-15)",
   "title": "[견우와 선녀 (Head over Heels) OST Part 5] 미연 (MIYEON) - 우리 우연히 만나 (When we meet again) MV (2025-07-15)"
+},
+{
+  "link": "https://youtu.be/OEtzJSwJNvE",
+  "category": "Special_Releases",
+  "member": "우기",
+  "date": "2025-08-10T19:00:01",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/OEtzJSwJNvE/maxresdefault.jpg",
+  "alt": "宋雨琦《COPDD》 (穿越火线手游“爽扣节”主题曲)  | 官方MV [4K 60HZ超高清畫質]｜騰訊音樂發行頻道 (2025-08-10)",
+  "title": "宋雨琦《COPDD》 (穿越火线手游“爽扣节”主题曲)  | 官方MV [4K 60HZ超高清畫質]｜騰訊音樂發行頻道 (2025-08-10)"
+},
+{
+  "link": "https://youtu.be/ZWM6YDl77QA",
+  "category": "Special_Releases",
+  "member": "소연",
+  "date": "2025-08-10T19:00:02",
+  "duration": "00:02:27",
+  "thumbnail": "https://i.ytimg.com/vi/ZWM6YDl77QA/maxresdefault.jpg",
+  "alt": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)",
+  "title": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)"
 }
 
 
 
+
   ];
+
 
 window.specialReleasesCards = specialReleasesCards;
