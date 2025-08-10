@@ -14250,6 +14250,16 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/k6O44bQ7ZYQ/maxresdefault.jpg",
   "alt": "그래 내가 할게 Quit 💦 (2025-08-08)",
   "title": "그래 내가 할게 Quit 💦 (2025-08-08)"
+},
+{
+  "link": "https://youtu.be/Sn5_goYmzbM",
+  "category": "Shorts",
+  "member": "미연, 소연",
+  "date": "2025-08-09",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/Sn5_goYmzbM/maxresdefault.jpg",
+  "alt": "✨ Cool poses for duos ✨ (2025-08-09)",
+  "title": "✨ Cool poses for duos ✨ (2025-08-09)"
 }
   
   
@@ -14257,5 +14267,6 @@ const shortsCards = [
   ];
 
 window.shortsCards = shortsCards;
+
 
 
