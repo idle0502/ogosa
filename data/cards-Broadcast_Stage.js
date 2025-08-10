@@ -9323,8 +9323,99 @@ const broadcastStageCards = [
   "alt": "i-dle (아이들) - Good Thing [인기가요/Inkigayo] (2025-06-01)",
   "title": "i-dle (아이들) - Good Thing [인기가요/Inkigayo] (2025-06-01)"
 },
+{
+  "link": "https://youtu.be/4mRweikdrQA",
+  "category": "Broadcast_Stage",
+  "member": "우기",
+  "date": "2025-07-27T19:00:00",
+  "duration": "00:02:07",
+  "thumbnail": "https://i.ytimg.com/vi/4mRweikdrQA/maxresdefault.jpg",
+  "alt": "[2025 가요대전] 우기 (YUQI) - Don't Start Now (원곡:Dua Lipa)♬ (2025-07-27)",
+  "title": "[2025 가요대전] 우기 (YUQI) - Don't Start Now (원곡:Dua Lipa)♬ (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/T8VdJVp6BoE",
+  "category": "Broadcast_Stage",
+  "member": "우기",
+  "date": "2025-07-27T19:00:01",
+  "duration": "00:02:07",
+  "thumbnail": "https://i.ytimg.com/vi/T8VdJVp6BoE/maxresdefault.jpg",
+  "alt": "우기 (YUQI) - Don't Start Now (원곡 : Dua Lipa) #2025SBS가요대전Summer (2025-07-27)",
+  "title": "우기 (YUQI) - Don't Start Now (원곡 : Dua Lipa) #2025SBS가요대전Summer (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/ay_TBZHLrIk",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-07-27T19:00:02",
+  "duration": "00:04:12",
+  "thumbnail": "https://i.ytimg.com/vi/ay_TBZHLrIk/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머] i-dle (아이들) -  INTRO + Good Thing (Orbit Ver.) (2025-07-27)",
+  "title": "[2025 가요대전 썸머] i-dle (아이들) -  INTRO + Good Thing (Orbit Ver.) (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/SA2td_iBmfY",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-07-27T19:00:03",
+  "duration": "00:04:22",
+  "thumbnail": "https://i.ytimg.com/vi/SA2td_iBmfY/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머 4K] 아이들 'INTRO + Good Thing (Orbit Ver.)' (i-dle FullCam) @SBS GayoDaejeon (2025-07-27)",
+  "title": "[2025 가요대전 썸머 4K] 아이들 'INTRO + Good Thing (Orbit Ver.)' (i-dle FullCam) @SBS GayoDaejeon (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/GL7Xy-BIpLc",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-07-27T19:00:04",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/GL7Xy-BIpLc/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머 4K] 아이들 미연 'INTRO + Good Thing (Orbit Ver.)' (i-dle MIYEON FanCam) @SBS GayoDaejeon (2025-07-27)",
+  "title": "[2025 가요대전 썸머 4K] 아이들 미연 'INTRO + Good Thing (Orbit Ver.)' (i-dle MIYEON FanCam) @SBS GayoDaejeon (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/r_fTrvplAYw",
+  "category": "Broadcast_Stage",
+  "member": "민니",
+  "date": "2025-07-27T19:00:05",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/r_fTrvplAYw/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머 4K] 아이들 민니 'INTRO + Good Thing (Orbit Ver.)' (i-dle MINNIE FanCam) @SBS GayoDaejeon (2025-07-27)",
+  "title": "[2025 가요대전 썸머 4K] 아이들 민니 'INTRO + Good Thing (Orbit Ver.)' (i-dle MINNIE FanCam) @SBS GayoDaejeon (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/lCnucIBbc1I",
+  "category": "Broadcast_Stage",
+  "member": "소연",
+  "date": "2025-07-27T19:00:06",
+  "duration": "00:04:18",
+  "thumbnail": "https://i.ytimg.com/vi/lCnucIBbc1I/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머 4K] 아이들 소연 'INTRO + Good Thing (Orbit Ver.)' (i-dle SOYEON FanCam) @SBS GayoDaejeon (2025-07-27)",
+  "title": "[2025 가요대전 썸머 4K] 아이들 소연 'INTRO + Good Thing (Orbit Ver.)' (i-dle SOYEON FanCam) @SBS GayoDaejeon (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/Kg3QT3vuhvQ",
+  "category": "Broadcast_Stage",
+  "member": "우기",
+  "date": "2025-07-27T19:00:07",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/Kg3QT3vuhvQ/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머 4K] 아이들 우기 'INTRO + Good Thing (Orbit Ver.)' (i-dle YUQI FanCam) @SBS GayoDaejeon (2025-07-27)",
+  "title": "[2025 가요대전 썸머 4K] 아이들 우기 'INTRO + Good Thing (Orbit Ver.)' (i-dle YUQI FanCam) @SBS GayoDaejeon (2025-07-27)"
+},
+{
+  "link": "https://youtu.be/z3s6iBrzPUg",
+  "category": "Broadcast_Stage",
+  "member": "슈화",
+  "date": "2025-07-27T19:00:08",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/z3s6iBrzPUg/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머 4K] 아이들 슈화 'INTRO + Good Thing (Orbit Ver.)' (i-dle SHUHUA FanCam) @SBS GayoDaejeon (2025-07-27)",
+  "title": "[2025 가요대전 썸머 4K] 아이들 슈화 'INTRO + Good Thing (Orbit Ver.)' (i-dle SHUHUA FanCam) @SBS GayoDaejeon (2025-07-27)"
+}
 
 
 ];
+
 
 window.broadcastStageCards = broadcastStageCards;
