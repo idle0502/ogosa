@@ -478,10 +478,21 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/7VlK1XhoZrY/sddefault.jpg",
   "alt": "[K-COMMUNITY FESTIVAL] Promotional video with (G)I-DLE (2020-11-06)",
   "title": "[K-COMMUNITY FESTIVAL] Promotional video with (G)I-DLE (2020-11-06)"
+},
+{
+  "link": "https://youtu.be/ZWM6YDl77QA",
+  "category": "Etc",
+  "member": "소연",
+  "date": "2025-08-10",
+  "duration": "00:02:27",
+  "thumbnail": "https://i.ytimg.com/vi/ZWM6YDl77QA/maxresdefault.jpg",
+  "alt": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)",
+  "title": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)"
 }
 
 
 
   ];
+
 
 window.etcCards = etcCards;
