@@ -8799,6 +8799,28 @@ const officialChannelCards = [
   "alt": "우기 (YUQI) 'What It Sounds Like / KPop Demon Hunters OST' (Cover) (2025-08-08)",
   "title": "우기 (YUQI) 'What It Sounds Like / KPop Demon Hunters OST' (Cover) (2025-08-08)",
   "subtag": "커버곡 | Cover"
+},
+{
+  "link": "https://youtu.be/oGL75DS7gmk",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-08-11",
+  "duration": "00:24:41",
+  "thumbnail": "https://i.ytimg.com/vi/oGL75DS7gmk/maxresdefault.jpg",
+  "alt": "[Playlist] 내게 들려줘 이 여름의 그 노래를 | Summer Song | i-dle (아이들) (2025-08-11)",
+  "title": "[Playlist] 내게 들려줘 이 여름의 그 노래를 | Summer Song | i-dle (아이들) (2025-08-11)",
+  "subtag": "스페셜컨텐츠 | Special Content"
+},
+{
+  "link": "https://youtu.be/XH-O7m2oR1k",
+  "category": "Official_Channel",
+  "member": "민니",
+  "date": "2025-08-13",
+  "duration": "00:08:04",
+  "thumbnail": "https://i.ytimg.com/vi/XH-O7m2oR1k/maxresdefault.jpg",
+  "alt": "민니의 2025 ALL STAR GAME 시구 & 공연 비하인드 [i-talk] #211 | i-dle (아이들)ㅣSUB (2025-08-13)",
+  "title": "민니의 2025 ALL STAR GAME 시구 & 공연 비하인드 [i-talk] #211 | i-dle (아이들)ㅣSUB (2025-08-13)",
+  "subtag": "아이톡 | I-TALK"
 }
 
 
@@ -8806,6 +8828,7 @@ const officialChannelCards = [
     ];
 
 window.officialChannelCards = officialChannelCards;
+
 
 
 
