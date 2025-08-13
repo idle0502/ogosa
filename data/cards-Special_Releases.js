@@ -858,8 +858,8 @@ const specialReleasesCards = [
     "thumbnail": "https://i.ytimg.com/vi/wQ8oMfw2Ntc/maxresdefault.jpg",
     "alt": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)",
     "title": "우기(YUQI) - Green Light (B 스테이션 졸업 콘서트 라이브) | 绿光 (B站毕业歌会Live) (2025-07-01)"
-  },
-  {
+},
+{
     "link": "https://youtu.be/nG5USDluWxA",
     "category": "Special_Releases",
     "member": "아이들",
@@ -868,8 +868,7 @@ const specialReleasesCards = [
     "thumbnail": "https://i.ytimg.com/vi/nG5USDluWxA/maxresdefault.jpg",
     "alt": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] 공식 콜라보 음원 ‘ARISE’🎵 Full.ver 공개 (2025-07-03)",
     "title": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] 공식 콜라보 음원 ‘ARISE’🎵 Full.ver 공개 (2025-07-03)"
-  },
-    
+},
 {
   "link": "https://youtu.be/hdLI_UzpMgw",
   "category": "Special_Releases",
@@ -899,6 +898,16 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/ZWM6YDl77QA/maxresdefault.jpg",
   "alt": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)",
   "title": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)"
+},
+{
+  "link": "https://youtu.be/6gT2qzFLWnk",
+  "category": "Special_Releases",
+  "member": "미연",
+  "date": "2024-12-31",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/6gT2qzFLWnk/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - 원신 | 캐릭터 트레일러 - 「마비카: Blazing Heart」 (2024-12-31)",
+  "title": "미연 (MIYEON) - 원신 | 캐릭터 트레일러 - 「마비카: Blazing Heart」 (2024-12-31)"
 }
 
 
@@ -908,3 +917,4 @@ const specialReleasesCards = [
 
 
 window.specialReleasesCards = specialReleasesCards;
+
