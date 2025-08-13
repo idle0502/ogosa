@@ -480,14 +480,14 @@ const etcCards = [
   "title": "[K-COMMUNITY FESTIVAL] Promotional video with (G)I-DLE (2020-11-06)"
 },
 {
-  "link": "https://youtu.be/ZWM6YDl77QA",
+  "link": "https://youtu.be/JQ-SKTKAjVw",
   "category": "Etc",
   "member": "소연",
-  "date": "2025-08-10",
-  "duration": "00:02:27",
-  "thumbnail": "https://i.ytimg.com/vi/ZWM6YDl77QA/maxresdefault.jpg",
-  "alt": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)",
-  "title": "R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) MV (2025-08-10)"
+  "date": "2025-08-13",
+  "duration": "00:09:51",
+  "thumbnail": "https://i.ytimg.com/vi/JQ-SKTKAjVw/maxresdefault.jpg",
+  "alt": "[MV Behind 🎬] R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) (2025-08-13)",
+  "title": "[MV Behind 🎬] R.Tee - '담다디(DAMDADI)’ (feat. SOYEON(소연) of i-dle) (2025-08-13)"
 }
 
 
@@ -496,3 +496,4 @@ const etcCards = [
 
 
 window.etcCards = etcCards;
+
